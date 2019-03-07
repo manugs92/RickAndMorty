@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RickAndMorty</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="tab_text_1">Personajes</string>
+    <string name="tab_text_2">Episodios</string>
+    <string name="tab_text_3">Mundos</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="characterName">Nombre: </string>
+    <string name="debutEpisode">Episodio de debut: </string>
+    <string name="status">Estado: </string>
+    <string name="gender">Género: </string>
+    <string name="specie">Espécie: </string>
+    <string name="episode_name">Título del episodio: </string>
+    <string name="air_date">Fecha de emisión del episodio: </string>
+    <string name="n_episode">Nº de episodio: </string>
+    <string name="location_name">Nombre de la localización: </string>
+    <string name="location_type">Tipo de localización: </string>
+    <string name="location_dimension">Dimension: </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
